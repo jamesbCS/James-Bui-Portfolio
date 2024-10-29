@@ -1,4 +1,4 @@
-# JB-portfolio
+# James-Bui-Portfolio
 This repository is a showcase of various coding projects I have completed or contributed to, as described in my resume.
 
 **Disclaimer:**
